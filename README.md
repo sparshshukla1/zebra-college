@@ -1,3 +1,6 @@
+#Live Demo
+https://zebra-college.vercel.app/
+
 # Zebra College Website
 
 A modern, professional college website built with React + Vite + Tailwind CSS.
